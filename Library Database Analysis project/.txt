@@ -1,0 +1,2 @@
+This is a on-going project
+The project is on Analyzing a library database that has been created using the data provided by the client and the schema diagram
